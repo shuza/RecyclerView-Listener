@@ -52,6 +52,10 @@ public abstract class RootAdapter<VH extends RootViewHolder> extends RecyclerVie
         bindView(holder, position);
     }
 
+    public void setListener(RecyclerClickListener listener) {
+        this.listener = listener;
+    }
+
     public abstract void bindView(VH holder, int position);
 
     @Override
