@@ -22,9 +22,9 @@ In your root build.gradle add jitpack
 
 In your app bulid.gradle add dependency
 ```
-	dependencies {
-		compile 'com.github.shuza:RecyclerView-Listener:0.1.0'
-	}
+dependencies {
+   compile 'com.github.shuza:RecyclerView-Listener:0.1.0'
+}
 ```
 
 ##### Maven
