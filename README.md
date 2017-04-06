@@ -119,8 +119,9 @@ public class MainActivity extends AppCompatActivity implements RecyclerClickList
 3. Implement RecyclerClickListener
 
 ## License
+Copyright © Shalauddin Ahamad Shuza
 
-TODO: Write license
+Distributed under [MIT](https://github.com/shuza/RecyclerView-Listener/blob/master/LICENSE) license
 
 </content>
   <tabTrigger>readme</tabTrigger>
