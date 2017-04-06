@@ -124,5 +124,4 @@ Copyright © Shalauddin Ahamad Shuza
 Distributed under [MIT](https://github.com/shuza/RecyclerView-Listener/blob/master/LICENSE) license
 
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
