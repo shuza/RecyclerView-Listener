@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerClickList
 
 ## Note
 
-1. Extand RootViewHolder and RootAdapter
+1. Extend RootViewHolder and RootAdapter
 2. Must call super() in your adapter class
 3. Implement RecyclerClickListener
 
