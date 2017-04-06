@@ -4,7 +4,7 @@
 
 A library to use click event in recyclerView for Android
 
-## Features
+## Features [![](https://jitpack.io/v/shuza/RecyclerView-Listener.svg)](https://jitpack.io/#shuza/RecyclerView-Listener)
 - Click Listener
 - Long Click Listener
 
