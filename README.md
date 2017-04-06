@@ -21,10 +21,11 @@ In your root build.gradle add jitpack
     }
 
 In your app bulid.gradle add dependency
-
-    dependencies {
-      compile 'com.github.User:Repo:Tag'
-    }
+```
+	dependencies {
+		compile 'com.github.User:Repo:Tag'
+	}
+```
 
 ##### Maven
 In your root build.gradle add jitpack
