@@ -47,7 +47,7 @@ In your app bulid.gradle add dependency
 
 
 ##### Create ViewHolder
-You have to extand RootViewHolder in your view holder class
+You have to extend RootViewHolder in your view holder class
 
 ```
     public class YourViewHolder extends RootViewHolder {
@@ -62,7 +62,7 @@ You have to extand RootViewHolder in your view holder class
 ```
 
 ##### Create Adapter
-You have to extand RootAdapter<YourViewHolder> in you adapter class. Conustractor must call the super() method with three parameter.
+You have to extend RootAdapter<YourViewHolder> in you adapter class. Conustractor must call the super() method with three parameter.
 - Listening class
 - Layout for each row
 - YourViewHolder.class
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerClickList
 
 ## Note
 
-1. Extand RootViewHolder and RootAdapter
+1. Extend RootViewHolder and RootAdapter
 2. Must call super() in your adapter class
 3. Implement RecyclerClickListener
 
