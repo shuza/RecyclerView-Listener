@@ -9,8 +9,15 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /**
- * Created by Boka on 06-Apr-17.
- */
+ *
+ * :=  created by:  Shuza
+ * :=  create date:  28-Jun-18
+ * :=  (C) CopyRight Shuza
+ * :=  www.shuza.ninja
+ * :=  shuza.sa@gmail.com
+ * :=  Fun  :  Coffee  :  Code
+ *
+ **/
 
 public abstract class RootAdapter<VH extends RootViewHolder> extends RecyclerView.Adapter<VH> {
     private RecyclerClickListener listener;
